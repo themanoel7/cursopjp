@@ -11,7 +11,7 @@ public class TesteDispositivos {
         tv.resetar();
         tv.desligar();
 
-        System.out.println();
+        System.out.println("anter git ");
 
         radio.ligar();
         radio.exibirStatus();
